@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\17.06 Задание 3\pracktika1\bin\Debug\pracktika1.exe.config
+C:\Users\user\Desktop\17.06 Задание 3\pracktika1\bin\Debug\pracktika1.exe
+C:\Users\user\Desktop\17.06 Задание 3\pracktika1\bin\Debug\pracktika1.pdb
+C:\Users\user\Desktop\17.06 Задание 3\pracktika1\obj\Debug\pracktika1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\17.06 Задание 3\pracktika1\obj\Debug\pracktika1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\17.06 Задание 3\pracktika1\obj\Debug\pracktika1.exe
+C:\Users\user\Desktop\17.06 Задание 3\pracktika1\obj\Debug\pracktika1.pdb
