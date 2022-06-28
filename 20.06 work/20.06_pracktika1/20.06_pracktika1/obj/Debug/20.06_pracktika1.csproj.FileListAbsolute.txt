@@ -1,0 +1,13 @@
+D:\Программы и Библиотеки\20.06_pracktika1\20.06_pracktika1\bin\Debug\20.06_pracktika1.exe.config
+D:\Программы и Библиотеки\20.06_pracktika1\20.06_pracktika1\bin\Debug\20.06_pracktika1.exe
+D:\Программы и Библиотеки\20.06_pracktika1\20.06_pracktika1\bin\Debug\20.06_pracktika1.pdb
+D:\Программы и Библиотеки\20.06_pracktika1\20.06_pracktika1\obj\Debug\20.06_pracktika1.csproj.AssemblyReference.cache
+D:\Программы и Библиотеки\20.06_pracktika1\20.06_pracktika1\obj\Debug\20.06_pracktika1.csproj.SuggestedBindingRedirects.cache
+D:\Программы и Библиотеки\20.06_pracktika1\20.06_pracktika1\obj\Debug\_20._06_pracktika1.Form1.resources
+D:\Программы и Библиотеки\20.06_pracktika1\20.06_pracktika1\obj\Debug\_20._06_pracktika1.Properties.Resources.resources
+D:\Программы и Библиотеки\20.06_pracktika1\20.06_pracktika1\obj\Debug\20.06_pracktika1.csproj.GenerateResource.cache
+D:\Программы и Библиотеки\20.06_pracktika1\20.06_pracktika1\obj\Debug\20.06_pracktika1.csproj.CoreCompileInputs.cache
+D:\Программы и Библиотеки\20.06_pracktika1\20.06_pracktika1\obj\Debug\20.06_pracktika1.exe
+D:\Программы и Библиотеки\20.06_pracktika1\20.06_pracktika1\obj\Debug\20.06_pracktika1.pdb
+D:\Программы и Библиотеки\20.06_pracktika1\20.06_pracktika1\bin\Debug\MaterialSkin.dll
+D:\Программы и Библиотеки\20.06_pracktika1\20.06_pracktika1\obj\Debug\20.06_pracktika1.csproj.CopyComplete
